@@ -9,3 +9,24 @@ Este é um projeto de aplicação interna de um hotel, onde é possível cadastr
 
 **Front-end:** React, Javascript, Styled-components, Recharts
 <br/>**Back-end:** Supabase
+
+## Instalação
+
+Clone este repositório para o seu ambiente local
+
+Navegue até o diretório do projeto
+
+Execute:
+
+```bash
+  npm install 
+```
+
+    
+## Rodando localmente
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
