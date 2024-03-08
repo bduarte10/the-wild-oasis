@@ -8,4 +8,4 @@ Este é um projeto de aplicação interna de um hotel, onde é possível cadastr
 ## Stack utilizada
 
 **Front-end:** React, Javascript, Styled-components, Recharts
-**Back-end:** Supabase
+<br/>**Back-end:** Supabase
